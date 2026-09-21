@@ -18,7 +18,7 @@ FastRouter lets you define your API routes in one place while automatically load
 Install FastRouter:
 
 ```bash
-NPM PACKAGE IS NOT YET AVAILABLE, SRRY
+npm install @antalervin19/fastrouter
 ```
 
 Create a routes directory:

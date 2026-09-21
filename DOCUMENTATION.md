@@ -33,7 +33,7 @@ automatically.
 # Installation
 
 ```bash
-NPM PACKAGE IS NOT YET AVAILABLE, SRRY
+npm install @antalervin19/fastrouter
 ```
 
 FastRouter requires Fastify as a peer dependency.
