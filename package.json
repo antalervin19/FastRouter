@@ -1,6 +1,6 @@
 {
     "name": "@antalervin19/fastrouter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight file-based API router for Fastify",
     "type": "module",
     "main": "dist/index.js",
