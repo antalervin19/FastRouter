@@ -1,0 +1,14 @@
+S:\FastRouter\CS\src\FastRouter\bin\Release\net8.0\FastRouter.deps.json
+S:\FastRouter\CS\src\FastRouter\bin\Release\net8.0\FastRouter.dll
+S:\FastRouter\CS\src\FastRouter\bin\Release\net8.0\FastRouter.pdb
+S:\FastRouter\CS\src\FastRouter\bin\Release\net8.0\FastRouter.xml
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.GeneratedMSBuildEditorConfig.editorconfig
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.AssemblyInfoInputs.cache
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.AssemblyInfo.cs
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.csproj.CoreCompileInputs.cache
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.sourcelink.json
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.dll
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\refint\FastRouter.dll
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.xml
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\FastRouter.pdb
+S:\FastRouter\CS\src\FastRouter\obj\Release\net8.0\ref\FastRouter.dll
